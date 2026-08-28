@@ -1,0 +1,35 @@
+[
+  {
+    "level": "A1",
+    "sourceEntriesDetected": 677,
+    "validVocabularyEntries": 673,
+    "duplicatesSkipped": 4,
+    "entriesWithEnglishMeaning": 642,
+    "entriesWithExamples": 650,
+    "warnings": [
+      "31 entries have no FreeDict or override English match."
+    ]
+  },
+  {
+    "level": "A2",
+    "sourceEntriesDetected": 1101,
+    "validVocabularyEntries": 1092,
+    "duplicatesSkipped": 9,
+    "entriesWithEnglishMeaning": 959,
+    "entriesWithExamples": 936,
+    "warnings": [
+      "133 entries have no FreeDict or override English match."
+    ]
+  },
+  {
+    "level": "B1",
+    "sourceEntriesDetected": 2812,
+    "validVocabularyEntries": 2774,
+    "duplicatesSkipped": 38,
+    "entriesWithEnglishMeaning": 2641,
+    "entriesWithExamples": 1,
+    "warnings": [
+      "133 entries have no FreeDict or override English match."
+    ]
+  }
+]

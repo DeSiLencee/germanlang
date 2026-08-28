@@ -1,0 +1,2064 @@
+[
+  {
+    "id": "goethe-ex-goethe-65e2e210e90325b6-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „ab“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "ex / from / as of / from …",
+    "answerEnglish": "ex / from / as of / from …",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "exit / departure / downhill track / train departure",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "ab = ex / from / as of / from …"
+  },
+  {
+    "id": "goethe-ex-goethe-95b0a1b9f4d9c4f1-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „aber“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "but / though / however / That said, …",
+    "answerEnglish": "but / though / however / That said, …",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "exit / departure / downhill track / train departure",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "aber = but / though / however / That said, …"
+  },
+  {
+    "id": "goethe-ex-goethe-ccca31b2c72d47a5-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Transportation",
+    "prompt": "Was bedeutet „abfahren“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "sail / leave / start / outgo",
+    "answerEnglish": "sail / leave / start / outgo",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "exit / departure / downhill track / train departure",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "abfahren = sail / leave / start / outgo"
+  },
+  {
+    "id": "goethe-ex-goethe-07f9940367ef2c43-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Transportation",
+    "prompt": "Was bedeutet „die Abfahrt“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "exit / departure / downhill track / train departure",
+    "answerEnglish": "exit / departure / downhill track / train departure",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "exit / departure / downhill track / train departure",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Abfahrt = exit / departure / downhill track / train departure"
+  },
+  {
+    "id": "goethe-ex-goethe-d0b9d173b78f540d-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „abgeben“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "render / emit sth. / expel sb. / give away",
+    "answerEnglish": "render / emit sth. / expel sb. / give away",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "render / emit sth. / expel sb. / give away",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "abgeben = render / emit sth. / expel sb. / give away"
+  },
+  {
+    "id": "goethe-ex-goethe-8243964338778191-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „abholen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "pick-up / collection",
+    "answerEnglish": "pick-up / collection",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "pick-up / collection",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "abholen = pick-up / collection"
+  },
+  {
+    "id": "goethe-ex-goethe-120bdf835406f010-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „der Absender“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "sender / senders / forwarder / addresser",
+    "answerEnglish": "sender / senders / forwarder / addresser",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo",
+      "sender / senders / forwarder / addresser"
+    ],
+    "explanation": "Absender = sender / senders / forwarder / addresser"
+  },
+  {
+    "id": "goethe-ex-goethe-48a06b50c64230f1-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „Achtung“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "regard / esteem / Avast! / respect",
+    "answerEnglish": "regard / esteem / Avast! / respect",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "regard / esteem / Avast! / respect",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Achtung = regard / esteem / Avast! / respect"
+  },
+  {
+    "id": "goethe-ex-goethe-a7587e8e255ed1b2-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Adresse“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "address / address for service of a summons / address where a summons may be served",
+    "answerEnglish": "address / address for service of a summons / address where a summons may be served",
+    "options": [
+      "address / address for service of a summons / address where a summons may be served",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Adresse = address / address for service of a summons / address where a summons may be served"
+  },
+  {
+    "id": "goethe-ex-goethe-e7577bb46a681644-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „all-“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "omni- / space / universe / outer space",
+    "answerEnglish": "omni- / space / universe / outer space",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "omni- / space / universe / outer space",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "all- = omni- / space / universe / outer space"
+  },
+  {
+    "id": "goethe-ex-goethe-96883da78ca7ede9-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „allein“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "yet / alone / recluse / reclusive",
+    "answerEnglish": "yet / alone / recluse / reclusive",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo",
+      "yet / alone / recluse / reclusive"
+    ],
+    "explanation": "allein = yet / alone / recluse / reclusive"
+  },
+  {
+    "id": "goethe-ex-goethe-c25988a2dce29280-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „also“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "so / well / thence / therefore",
+    "answerEnglish": "so / well / thence / therefore",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo",
+      "so / well / thence / therefore"
+    ],
+    "explanation": "also = so / well / thence / therefore"
+  },
+  {
+    "id": "goethe-ex-goethe-7f1838b53d5c5cc9-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „alt“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "old / alto / oldly / olden",
+    "answerEnglish": "old / alto / oldly / olden",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "old / alto / oldly / olden",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "alt = old / alto / oldly / olden"
+  },
+  {
+    "id": "goethe-ex-goethe-3c4e5d94d9f4c627-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „das Alter“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "bro / bra / bruh / dude",
+    "answerEnglish": "bro / bra / bruh / dude",
+    "options": [
+      "bro / bra / bruh / dude",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Alter = bro / bra / bruh / dude"
+  },
+  {
+    "id": "goethe-ex-goethe-8e681ed915540288-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „an“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "at / by / on / to",
+    "answerEnglish": "at / by / on / to",
+    "options": [
+      "at / by / on / to",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "an = at / by / on / to"
+  },
+  {
+    "id": "goethe-ex-goethe-7ea056b898676179-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „anbieten“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "serve / offer / solicit / offering",
+    "answerEnglish": "serve / offer / solicit / offering",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo",
+      "serve / offer / solicit / offering"
+    ],
+    "explanation": "anbieten = serve / offer / solicit / offering"
+  },
+  {
+    "id": "goethe-ex-goethe-d037a7d076fa20b1-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „das Angebot“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "bid / make / offer / quote",
+    "answerEnglish": "bid / make / offer / quote",
+    "options": [
+      "bid / make / offer / quote",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Angebot = bid / make / offer / quote"
+  },
+  {
+    "id": "goethe-ex-goethe-691a6c2e7edfbe6c-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „anfangen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "begin / start / tee off / kick off",
+    "answerEnglish": "begin / start / tee off / kick off",
+    "options": [
+      "begin / start / tee off / kick off",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "anfangen = begin / start / tee off / kick off"
+  },
+  {
+    "id": "goethe-ex-goethe-0deb4fcfbef69fce-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „der Anfang“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "onset / start / outset / advent",
+    "answerEnglish": "onset / start / outset / advent",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "onset / start / outset / advent",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Anfang = onset / start / outset / advent"
+  },
+  {
+    "id": "goethe-ex-goethe-3c2da29fa36913fc-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „ankommen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "arrive / be essential / be necessary",
+    "answerEnglish": "arrive / be essential / be necessary",
+    "options": [
+      "arrive / be essential / be necessary",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "ankommen = arrive / be essential / be necessary"
+  },
+  {
+    "id": "goethe-ex-goethe-0928a7afcfa0cdde-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Ankunft“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "arrival / dead on arrival / until their arrival",
+    "answerEnglish": "arrival / dead on arrival / until their arrival",
+    "options": [
+      "arrival / dead on arrival / until their arrival",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Ankunft = arrival / dead on arrival / until their arrival"
+  },
+  {
+    "id": "goethe-ex-goethe-f343372112ce14c3-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „ankreuzen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "tack / sail into the wind / sail against the wind",
+    "answerEnglish": "tack / sail into the wind / sail against the wind",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo",
+      "tack / sail into the wind / sail against the wind"
+    ],
+    "explanation": "ankreuzen = tack / sail into the wind / sail against the wind"
+  },
+  {
+    "id": "goethe-ex-goethe-e191dd2dd3ec3464-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „anmachen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "mix / toss / dress / light sth.",
+    "answerEnglish": "mix / toss / dress / light sth.",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "mix / toss / dress / light sth.",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "anmachen = mix / toss / dress / light sth."
+  },
+  {
+    "id": "goethe-ex-goethe-622b2fded07dff7a-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „sich anmelden“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "enrol / enroll / sign-on / declare",
+    "answerEnglish": "enrol / enroll / sign-on / declare",
+    "options": [
+      "but / though / however / That said, …",
+      "enrol / enroll / sign-on / declare",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "sich anmelden = enrol / enroll / sign-on / declare"
+  },
+  {
+    "id": "goethe-ex-goethe-273f1498248e6b4e-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Administration",
+    "prompt": "Was bedeutet „die Anmeldung“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "registration",
+    "answerEnglish": "registration",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "registration",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Anmeldung = registration"
+  },
+  {
+    "id": "goethe-ex-goethe-273f1498248e6b4e-blank",
+    "type": "fill_blank",
+    "level": "A1",
+    "category": "Administration",
+    "prompt": "Eine _____ für diesen Kurs ist nicht mehr möglich.",
+    "englishHelp": "Registration for this course is no longer possible.",
+    "answer": "Anmeldung",
+    "answerEnglish": "registration",
+    "explanation": "The missing word is “Anmeldung”."
+  },
+  {
+    "id": "goethe-ex-goethe-df9c68d3103656b6-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Anrede“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "title / address / salutation / form of address",
+    "answerEnglish": "title / address / salutation / form of address",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo",
+      "title / address / salutation / form of address"
+    ],
+    "explanation": "Anrede = title / address / salutation / form of address"
+  },
+  {
+    "id": "goethe-ex-goethe-ec8d60080ad215c7-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Communication",
+    "prompt": "Was bedeutet „anrufen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "appeal / invoke",
+    "answerEnglish": "appeal / invoke",
+    "options": [
+      "appeal / invoke",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "anrufen = appeal / invoke"
+  },
+  {
+    "id": "goethe-ex-goethe-04dea3f927ae599b-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Communication",
+    "prompt": "Was bedeutet „der Anruf“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "call / ring / buzz / challenge",
+    "answerEnglish": "call / ring / buzz / challenge",
+    "options": [
+      "but / though / however / That said, …",
+      "call / ring / buzz / challenge",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Anruf = call / ring / buzz / challenge"
+  },
+  {
+    "id": "goethe-ex-goethe-989bb504b884fa91-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Ansage“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "bid / call / announcement / voice mail announcement",
+    "answerEnglish": "bid / call / announcement / voice mail announcement",
+    "options": [
+      "bid / call / announcement / voice mail announcement",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Ansage = bid / call / announcement / voice mail announcement"
+  },
+  {
+    "id": "goethe-ex-goethe-89de64ca24cad250-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Transportation",
+    "prompt": "Was bedeutet „der Anschluss“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "connection / connecting service",
+    "answerEnglish": "connection / connecting service",
+    "options": [
+      "but / though / however / That said, …",
+      "connection / connecting service",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Anschluss = connection / connecting service"
+  },
+  {
+    "id": "goethe-ex-goethe-89de64ca24cad250-blank",
+    "type": "fill_blank",
+    "level": "A1",
+    "category": "Transportation",
+    "prompt": "In Mannheim haben Sie _____ nach Saarbrücken.",
+    "englishHelp": "In Mannheim you have a connecting service to Saarbrücken.",
+    "answer": "Anschluss",
+    "answerEnglish": "connection / connecting service",
+    "explanation": "The missing word is “Anschluss”."
+  },
+  {
+    "id": "goethe-ex-goethe-3288239c96633c26-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Communication",
+    "prompt": "Was bedeutet „antworten“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "reply / answer / retort / answers",
+    "answerEnglish": "reply / answer / retort / answers",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "reply / answer / retort / answers",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "antworten = reply / answer / retort / answers"
+  },
+  {
+    "id": "goethe-ex-goethe-707e5b9a255a672d-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Communication",
+    "prompt": "Was bedeutet „die Antwort“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "reply / answer / response / glib answer",
+    "answerEnglish": "reply / answer / response / glib answer",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "reply / answer / response / glib answer",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Antwort = reply / answer / response / glib answer"
+  },
+  {
+    "id": "goethe-ex-goethe-57efaad3a1750a4e-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Anzeige“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "ad / notice / advert / readout",
+    "answerEnglish": "ad / notice / advert / readout",
+    "options": [
+      "ad / notice / advert / readout",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Anzeige = ad / notice / advert / readout"
+  },
+  {
+    "id": "goethe-ex-goethe-a9b62b79d3ea55a1-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „sich anziehen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "tog / lure / allure / clothe",
+    "answerEnglish": "tog / lure / allure / clothe",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo",
+      "tog / lure / allure / clothe"
+    ],
+    "explanation": "sich anziehen = tog / lure / allure / clothe"
+  },
+  {
+    "id": "goethe-ex-goethe-3d65f1d57c6fc53d-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Food",
+    "prompt": "Was bedeutet „der Apfel“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "apple / for peanuts / peel an apple / for next to nothing",
+    "answerEnglish": "apple / for peanuts / peel an apple / for next to nothing",
+    "options": [
+      "apple / for peanuts / peel an apple / for next to nothing",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Apfel = apple / for peanuts / peel an apple / for next to nothing"
+  },
+  {
+    "id": "goethe-ex-goethe-208493bb955f64b8-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „der Appetit“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "appetite / give sb. an appetite / have an appetite for sth. / spoil sb.&#39;s appetite for sth.",
+    "answerEnglish": "appetite / give sb. an appetite / have an appetite for sth. / spoil sb.&#39;s appetite for sth.",
+    "options": [
+      "appetite / give sb. an appetite / have an appetite for sth. / spoil sb.&#39;s appetite for sth.",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Appetit = appetite / give sb. an appetite / have an appetite for sth. / spoil sb.&#39;s appetite for sth."
+  },
+  {
+    "id": "goethe-ex-goethe-e7b12e3c55ca03f4-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Work",
+    "prompt": "Was bedeutet „arbeiten“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "go / jobs / work / works",
+    "answerEnglish": "go / jobs / work / works",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "go / jobs / work / works",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "arbeiten = go / jobs / work / works"
+  },
+  {
+    "id": "goethe-ex-goethe-1555bc033c3d4f4e-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Work",
+    "prompt": "Was bedeutet „die Arbeit“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "job / work / post / labor",
+    "answerEnglish": "job / work / post / labor",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "job / work / post / labor",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Arbeit = job / work / post / labor"
+  },
+  {
+    "id": "goethe-ex-goethe-facfa2ddbf676d41-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "Work",
+    "prompt": "Was bedeutet „arbeitslos“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "jobless / stranded / workless / unemployed",
+    "answerEnglish": "jobless / stranded / workless / unemployed",
+    "options": [
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "jobless / stranded / workless / unemployed",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "arbeitslos = jobless / stranded / workless / unemployed"
+  },
+  {
+    "id": "goethe-ex-goethe-bfaeeeaa64b0bfc9-meaning",
+    "type": "vocabulary",
+    "level": "A1",
+    "category": "General",
+    "prompt": "Was bedeutet „der Arm“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "arm / limb / poor / sword",
+    "answerEnglish": "arm / limb / poor / sword",
+    "options": [
+      "arm / limb / poor / sword",
+      "but / though / however / That said, …",
+      "ex / from / as of / from …",
+      "sail / leave / start / outgo"
+    ],
+    "explanation": "Arm = arm / limb / poor / sword"
+  },
+  {
+    "id": "goethe-ex-goethe-e7d23f4b02cab92a-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „aus“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "end / out / for / exit",
+    "answerEnglish": "end / out / for / exit",
+    "options": [
+      "end / out / for / exit",
+      "exit / issue / egress / output",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "aus = end / out / for / exit"
+  },
+  {
+    "id": "goethe-ex-goethe-b0c6b0c2508ca11a-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "Transportation",
+    "prompt": "Was bedeutet „der Ausflug“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "trip / jaunt / outing / excursion",
+    "answerEnglish": "trip / jaunt / outing / excursion",
+    "options": [
+      "end / out / for / exit",
+      "exit / issue / egress / output",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "Ausflug = trip / jaunt / outing / excursion"
+  },
+  {
+    "id": "goethe-ex-goethe-4093256c36cef62e-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „ausfüllen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "fill / completion / fill up / fill in sth.",
+    "answerEnglish": "fill / completion / fill up / fill in sth.",
+    "options": [
+      "end / out / for / exit",
+      "exit / issue / egress / output",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "ausfüllen = fill / completion / fill up / fill in sth."
+  },
+  {
+    "id": "goethe-ex-goethe-05a90c713c56a890-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „der Ausgang“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "exit / issue / egress / output",
+    "answerEnglish": "exit / issue / egress / output",
+    "options": [
+      "end / out / for / exit",
+      "exit / issue / egress / output",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "Ausgang = exit / issue / egress / output"
+  },
+  {
+    "id": "goethe-ex-goethe-a7a10296c334da0d-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „ausgeben“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "deal / spend / issue / output",
+    "answerEnglish": "deal / spend / issue / output",
+    "options": [
+      "deal / spend / issue / output",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "ausgeben = deal / spend / issue / output"
+  },
+  {
+    "id": "goethe-ex-goethe-d79ad385ab4deb8e-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „gibt aus“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "spends / issues / displays",
+    "answerEnglish": "spends / issues / displays",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "spends / issues / displays",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "gibt aus = spends / issues / displays"
+  },
+  {
+    "id": "goethe-ex-goethe-d230213dde2dbb1e-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „ausgehen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "jol / run / outgo / assume",
+    "answerEnglish": "jol / run / outgo / assume",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "jol / run / outgo / assume",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "ausgehen = jol / run / outgo / assume"
+  },
+  {
+    "id": "goethe-ex-goethe-997687dcd32cde17-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „geht aus“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "dates / comes from",
+    "answerEnglish": "dates / comes from",
+    "options": [
+      "dates / comes from",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "geht aus = dates / comes from"
+  },
+  {
+    "id": "goethe-ex-goethe-e45a7c8ea169f2fd-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „die Auskunft“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "advice / counsel / information / information desk",
+    "answerEnglish": "advice / counsel / information / information desk",
+    "options": [
+      "advice / counsel / information / information desk",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "Auskunft = advice / counsel / information / information desk"
+  },
+  {
+    "id": "goethe-ex-goethe-d5e4a316b75cda08-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „ausmachen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "douse / constitute / put out / put off",
+    "answerEnglish": "douse / constitute / put out / put off",
+    "options": [
+      "douse / constitute / put out / put off",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "ausmachen = douse / constitute / put out / put off"
+  },
+  {
+    "id": "goethe-ex-goethe-86ad2f30df34f779-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „auspacken“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "cough / unpack / unwrap / tell all",
+    "answerEnglish": "cough / unpack / unwrap / tell all",
+    "options": [
+      "cough / unpack / unwrap / tell all",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "auspacken = cough / unpack / unwrap / tell all"
+  },
+  {
+    "id": "goethe-ex-goethe-a5d3963822b890bd-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „aussehen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "air / look / finish / lookout",
+    "answerEnglish": "air / look / finish / lookout",
+    "options": [
+      "air / look / finish / lookout",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "aussehen = air / look / finish / lookout"
+  },
+  {
+    "id": "goethe-ex-goethe-98d701e3ec2db79c-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „außer“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "but / bar / save / except",
+    "answerEnglish": "but / bar / save / except",
+    "options": [
+      "but / bar / save / except",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "außer = but / bar / save / except"
+  },
+  {
+    "id": "goethe-ex-goethe-fb6a730322cd3ccb-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „außerdem“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "plus / besides / moreover / additionally",
+    "answerEnglish": "plus / besides / moreover / additionally",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "plus / besides / moreover / additionally",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "außerdem = plus / besides / moreover / additionally"
+  },
+  {
+    "id": "goethe-ex-goethe-0c40530f30e50731-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „außerhalb“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "out / outside / outwith / out of",
+    "answerEnglish": "out / outside / outwith / out of",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "out / outside / outwith / out of",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "außerhalb = out / outside / outwith / out of"
+  },
+  {
+    "id": "goethe-ex-goethe-546c1fa894db8b72-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "Communication",
+    "prompt": "Was bedeutet „aussprechen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "speak / express / vocalize / vocalise",
+    "answerEnglish": "speak / express / vocalize / vocalise",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "speak / express / vocalize / vocalise",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "aussprechen = speak / express / vocalize / vocalise"
+  },
+  {
+    "id": "goethe-ex-goethe-24c7c4295fd97991-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „aussteigen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "exit / alight / disembark / log off",
+    "answerEnglish": "exit / alight / disembark / log off",
+    "options": [
+      "end / out / for / exit",
+      "exit / alight / disembark / log off",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "aussteigen = exit / alight / disembark / log off"
+  },
+  {
+    "id": "goethe-ex-goethe-0ba11257463e7237-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „steigt aus“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "backs out / bails out / bales out",
+    "answerEnglish": "backs out / bails out / bales out",
+    "options": [
+      "backs out / bails out / bales out",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "steigt aus = backs out / bails out / bales out"
+  },
+  {
+    "id": "goethe-ex-goethe-51ccc92cb307aef4-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „austragen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "sign out / sign oneself out",
+    "answerEnglish": "sign out / sign oneself out",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "sign out / sign oneself out",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "austragen = sign out / sign oneself out"
+  },
+  {
+    "id": "goethe-ex-goethe-4610ff26068d24f4-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "Administration",
+    "prompt": "Was bedeutet „der Ausweis“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "ID / pass / credentials / identification",
+    "answerEnglish": "ID / pass / credentials / identification",
+    "options": [
+      "ID / pass / credentials / identification",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "Ausweis = ID / pass / credentials / identification"
+  },
+  {
+    "id": "goethe-ex-goethe-18050f8e9d398b7f-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "Transportation",
+    "prompt": "Was bedeutet „das Auto“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "car / auto / automobile / automotive",
+    "answerEnglish": "car / auto / automobile / automotive",
+    "options": [
+      "car / auto / automobile / automotive",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "Auto = car / auto / automobile / automotive"
+  },
+  {
+    "id": "goethe-ex-goethe-15d5046f26482ea3-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "Transportation",
+    "prompt": "Was bedeutet „die Autobahn“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "freeway / motorway / autobahn",
+    "answerEnglish": "freeway / motorway / autobahn",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "freeway / motorway / autobahn",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "Autobahn = freeway / motorway / autobahn"
+  },
+  {
+    "id": "goethe-ex-goethe-ac92c1301e210cb8-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „der Apparat“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "device / gadget / widget / machinery",
+    "answerEnglish": "device / gadget / widget / machinery",
+    "options": [
+      "device / gadget / widget / machinery",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "Apparat = device / gadget / widget / machinery"
+  },
+  {
+    "id": "goethe-ex-goethe-13ee9756ab5abd94-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "Work",
+    "prompt": "Was bedeutet „die Arbeit“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "job / work / post / labor",
+    "answerEnglish": "job / work / post / labor",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "job / work / post / labor",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "Arbeit = job / work / post / labor"
+  },
+  {
+    "id": "goethe-ex-goethe-cffd7840882e00b1-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "Work",
+    "prompt": "Was bedeutet „arbeitslos“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "jobless / stranded / workless / unemployed",
+    "answerEnglish": "jobless / stranded / workless / unemployed",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "jobless / stranded / workless / unemployed",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "arbeitslos = jobless / stranded / workless / unemployed"
+  },
+  {
+    "id": "goethe-ex-goethe-28858ec310493fc7-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „ärgert“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "irks / riles / galls / spites",
+    "answerEnglish": "irks / riles / galls / spites",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "irks / riles / galls / spites",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "ärgert = irks / riles / galls / spites"
+  },
+  {
+    "id": "goethe-ex-goethe-1843e88b5f268e99-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „arm“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "arm / limb / poor / sword",
+    "answerEnglish": "arm / limb / poor / sword",
+    "options": [
+      "arm / limb / poor / sword",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "arm = arm / limb / poor / sword"
+  },
+  {
+    "id": "goethe-ex-goethe-65c35cb40a42b621-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „der Arm“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "arm / limb / poor / sword",
+    "answerEnglish": "arm / limb / poor / sword",
+    "options": [
+      "arm / limb / poor / sword",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "Arm = arm / limb / poor / sword"
+  },
+  {
+    "id": "goethe-ex-goethe-72e9dc01b16b2108-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „der Artikel“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "item / items / article / feature",
+    "answerEnglish": "item / items / article / feature",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "item / items / article / feature",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "Artikel = item / items / article / feature"
+  },
+  {
+    "id": "goethe-ex-goethe-37a38380faedf368-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „auch“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "too / also / even / likewise",
+    "answerEnglish": "too / also / even / likewise",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "too / also / even / likewise",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "auch = too / also / even / likewise"
+  },
+  {
+    "id": "goethe-ex-goethe-6c6db7e2be4f5ffb-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „auf“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "on / in / at / up",
+    "answerEnglish": "on / in / at / up",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "on / in / at / up",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "auf = on / in / at / up"
+  },
+  {
+    "id": "goethe-ex-goethe-81bb35345ec71595-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „aufhören“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "quit / stop / leave / cease",
+    "answerEnglish": "quit / stop / leave / cease",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "quit / stop / leave / cease",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "aufhören = quit / stop / leave / cease"
+  },
+  {
+    "id": "goethe-ex-goethe-c6c4da78c4999d48-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „hört auf“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "stops / leaves / ceases",
+    "answerEnglish": "stops / leaves / ceases",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "stops / leaves / ceases",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "hört auf = stops / leaves / ceases"
+  },
+  {
+    "id": "goethe-ex-goethe-b0df462c14ce77b6-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „aufmachen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "undo / start / set forth / set forward",
+    "answerEnglish": "undo / start / set forth / set forward",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion",
+      "undo / start / set forth / set forward"
+    ],
+    "explanation": "aufmachen = undo / start / set forth / set forward"
+  },
+  {
+    "id": "goethe-ex-goethe-a1884a8aac45b295-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „aufpassen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "mind / attend / watch out / be careful",
+    "answerEnglish": "mind / attend / watch out / be careful",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "mind / attend / watch out / be careful",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "aufpassen = mind / attend / watch out / be careful"
+  },
+  {
+    "id": "goethe-ex-goethe-604ceb2b18c9adf0-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „passt auf“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "minds / pays attention to",
+    "answerEnglish": "minds / pays attention to",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "minds / pays attention to",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "passt auf = minds / pays attention to"
+  },
+  {
+    "id": "goethe-ex-goethe-4cd17234284e3417-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „aufräumen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "clear",
+    "answerEnglish": "clear",
+    "options": [
+      "clear",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "aufräumen = clear"
+  },
+  {
+    "id": "goethe-ex-goethe-9f0c1569af7daa38-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „aufregend“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "vexing / chafing / annoying / exciting",
+    "answerEnglish": "vexing / chafing / annoying / exciting",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion",
+      "vexing / chafing / annoying / exciting"
+    ],
+    "explanation": "aufregend = vexing / chafing / annoying / exciting"
+  },
+  {
+    "id": "goethe-ex-goethe-d5dcbebf7f9363c5-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "General",
+    "prompt": "Was bedeutet „aufstehen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "up / arise / uprise / ambulation",
+    "answerEnglish": "up / arise / uprise / ambulation",
+    "options": [
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion",
+      "up / arise / uprise / ambulation"
+    ],
+    "explanation": "aufstehen = up / arise / uprise / ambulation"
+  },
+  {
+    "id": "goethe-ex-goethe-2d95d9a73cd588c8-meaning",
+    "type": "vocabulary",
+    "level": "A2",
+    "category": "Transportation",
+    "prompt": "Was bedeutet „der Aufzug“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "act / lift / parade / elevator",
+    "answerEnglish": "act / lift / parade / elevator",
+    "options": [
+      "act / lift / parade / elevator",
+      "end / out / for / exit",
+      "fill / completion / fill up / fill in sth.",
+      "trip / jaunt / outing / excursion"
+    ],
+    "explanation": "Aufzug = act / lift / parade / elevator"
+  },
+  {
+    "id": "goethe-ex-goethe-0225782fa3ca72c1-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „alltäglich“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "mundane / prosaic / ordinary / everyday",
+    "answerEnglish": "mundane / prosaic / ordinary / everyday",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "so / well / thence / therefore"
+    ],
+    "explanation": "alltäglich = mundane / prosaic / ordinary / everyday"
+  },
+  {
+    "id": "goethe-ex-goethe-11882b0a2d3a8165-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „das Alphabet“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "alphabet / alphabetic",
+    "answerEnglish": "alphabet / alphabetic",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "so / well / thence / therefore"
+    ],
+    "explanation": "Alphabet = alphabet / alphabetic"
+  },
+  {
+    "id": "goethe-ex-goethe-22d3d497d5da509d-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „als“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "as / qua / when / than",
+    "answerEnglish": "as / qua / when / than",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "so / well / thence / therefore"
+    ],
+    "explanation": "als = as / qua / when / than"
+  },
+  {
+    "id": "goethe-ex-goethe-66b30fb1b1efe526-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „also“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "so / well / thence / therefore",
+    "answerEnglish": "so / well / thence / therefore",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "so / well / thence / therefore"
+    ],
+    "explanation": "also = so / well / thence / therefore"
+  },
+  {
+    "id": "goethe-ex-goethe-e2679011ab9bed29-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „alt“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "old / alto / oldly / olden",
+    "answerEnglish": "old / alto / oldly / olden",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "old / alto / oldly / olden"
+    ],
+    "explanation": "alt = old / alto / oldly / olden"
+  },
+  {
+    "id": "goethe-ex-goethe-cedc09adda411ee1-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „das Alter“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "bro / bra / bruh / dude",
+    "answerEnglish": "bro / bra / bruh / dude",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "bro / bra / bruh / dude",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Alter = bro / bra / bruh / dude"
+  },
+  {
+    "id": "goethe-ex-goethe-ad9780743b5ed328-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „das Altenheim“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "retirement home / old people&#39;s home / home for the aged",
+    "answerEnglish": "retirement home / old people&#39;s home / home for the aged",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "retirement home / old people&#39;s home / home for the aged"
+    ],
+    "explanation": "Altenheim = retirement home / old people&#39;s home / home for the aged"
+  },
+  {
+    "id": "goethe-ex-goethe-a87900c272c1ce05-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „das Altersheim“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "retirement home / old people&#39;s home / home for the aged",
+    "answerEnglish": "retirement home / old people&#39;s home / home for the aged",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "retirement home / old people&#39;s home / home for the aged"
+    ],
+    "explanation": "Altersheim = retirement home / old people&#39;s home / home for the aged"
+  },
+  {
+    "id": "goethe-ex-goethe-2958f2c66ccbbb92-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „alternativ“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "alternate / alternative / alternatively / alternate keypad mode",
+    "answerEnglish": "alternate / alternative / alternatively / alternate keypad mode",
+    "options": [
+      "alphabet / alphabetic",
+      "alternate / alternative / alternatively / alternate keypad mode",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "alternativ = alternate / alternative / alternatively / alternate keypad mode"
+  },
+  {
+    "id": "goethe-ex-goethe-1aa7be1abb66d0dc-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Alternative“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "option / alternative / alternative choice / be available as an alternative (of a thing)",
+    "answerEnglish": "option / alternative / alternative choice / be available as an alternative (of a thing)",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "option / alternative / alternative choice / be available as an alternative (of a thing)"
+    ],
+    "explanation": "Alternative = option / alternative / alternative choice / be available as an alternative (of a thing)"
+  },
+  {
+    "id": "goethe-ex-goethe-fc66a859cf9c6a1d-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Ampel“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "robot / hanging lamp / traffic light / traffic lights",
+    "answerEnglish": "robot / hanging lamp / traffic light / traffic lights",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "robot / hanging lamp / traffic light / traffic lights"
+    ],
+    "explanation": "Ampel = robot / hanging lamp / traffic light / traffic lights"
+  },
+  {
+    "id": "goethe-ex-goethe-0a6b7397c356470d-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "Administration",
+    "prompt": "Was bedeutet „das Amt“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "amt / office / agency / charge",
+    "answerEnglish": "amt / office / agency / charge",
+    "options": [
+      "alphabet / alphabetic",
+      "amt / office / agency / charge",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Amt = amt / office / agency / charge"
+  },
+  {
+    "id": "goethe-ex-goethe-c2f9c1b364dde0fa-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „sich amüsieren“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "have fun / enjoy it / amuse oneself / enjoy yourself",
+    "answerEnglish": "have fun / enjoy it / amuse oneself / enjoy yourself",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "have fun / enjoy it / amuse oneself / enjoy yourself",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "sich amüsieren = have fun / enjoy it / amuse oneself / enjoy yourself"
+  },
+  {
+    "id": "goethe-ex-goethe-521e3a51b637f5b3-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „analysieren“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "assay / dissect / analysation / analyse sth.",
+    "answerEnglish": "assay / dissect / analysation / analyse sth.",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "assay / dissect / analysation / analyse sth.",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "analysieren = assay / dissect / analysation / analyse sth."
+  },
+  {
+    "id": "goethe-ex-goethe-4a906320e251c5e0-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „anbieten“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "serve / offer / solicit / offering",
+    "answerEnglish": "serve / offer / solicit / offering",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "serve / offer / solicit / offering"
+    ],
+    "explanation": "anbieten = serve / offer / solicit / offering"
+  },
+  {
+    "id": "goethe-ex-goethe-1f9cd6265ea00e89-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Adresse“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "address / address for service of a summons / address where a summons may be served",
+    "answerEnglish": "address / address for service of a summons / address where a summons may be served",
+    "options": [
+      "address / address for service of a summons / address where a summons may be served",
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Adresse = address / address for service of a summons / address where a summons may be served"
+  },
+  {
+    "id": "goethe-ex-goethe-94fb0b6e0d2d30ad-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „ähnlich“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "akin / alike / similar / related",
+    "answerEnglish": "akin / alike / similar / related",
+    "options": [
+      "akin / alike / similar / related",
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "ähnlich = akin / alike / similar / related"
+  },
+  {
+    "id": "goethe-ex-goethe-bf053e69ba8cb7c5-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Ahnung“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "hunch / savvy / notion / inkling",
+    "answerEnglish": "hunch / savvy / notion / inkling",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "hunch / savvy / notion / inkling",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Ahnung = hunch / savvy / notion / inkling"
+  },
+  {
+    "id": "goethe-ex-goethe-ff880962a211438a-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Aktion“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "move / drive / action / special",
+    "answerEnglish": "move / drive / action / special",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "move / drive / action / special",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Aktion = move / drive / action / special"
+  },
+  {
+    "id": "goethe-ex-goethe-89e3b66e90d19f1e-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „aktiv“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "live / active / hands-on / actively",
+    "answerEnglish": "live / active / hands-on / actively",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "live / active / hands-on / actively",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "aktiv = live / active / hands-on / actively"
+  },
+  {
+    "id": "goethe-ex-goethe-e36ef304afc10dc0-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Aktivität“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "pursuit / activity / evaluation of activities",
+    "answerEnglish": "pursuit / activity / evaluation of activities",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "pursuit / activity / evaluation of activities"
+    ],
+    "explanation": "Aktivität = pursuit / activity / evaluation of activities"
+  },
+  {
+    "id": "goethe-ex-goethe-6be8801ee34c20a1-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „aktuell“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "recent / timely / topical / current",
+    "answerEnglish": "recent / timely / topical / current",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "recent / timely / topical / current"
+    ],
+    "explanation": "aktuell = recent / timely / topical / current"
+  },
+  {
+    "id": "goethe-ex-goethe-467e82fd7dfbb468-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „akzeptieren“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "honor / accept / honour / pounce on sth.",
+    "answerEnglish": "honor / accept / honour / pounce on sth.",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "honor / accept / honour / pounce on sth.",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "akzeptieren = honor / accept / honour / pounce on sth."
+  },
+  {
+    "id": "goethe-ex-goethe-ecf559cf3294647c-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „der Alarm“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "alarm / alert / cry wolf / security alert",
+    "answerEnglish": "alarm / alert / cry wolf / security alert",
+    "options": [
+      "alarm / alert / cry wolf / security alert",
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Alarm = alarm / alert / cry wolf / security alert"
+  },
+  {
+    "id": "goethe-ex-goethe-f6e1dc548ae44dae-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „der Alkohol“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "ethanol / alcohol / ethyl alcohol / John Barleycorn",
+    "answerEnglish": "ethanol / alcohol / ethyl alcohol / John Barleycorn",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "ethanol / alcohol / ethyl alcohol / John Barleycorn",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Alkohol = ethanol / alcohol / ethyl alcohol / John Barleycorn"
+  },
+  {
+    "id": "goethe-ex-goethe-22b67018b1042f95-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „allgemein“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "common / public / general / generic",
+    "answerEnglish": "common / public / general / generic",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "common / public / general / generic",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "allgemein = common / public / general / generic"
+  },
+  {
+    "id": "goethe-ex-goethe-f001036ce30cad1c-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "Time",
+    "prompt": "Was bedeutet „der Alltag“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "everyday life / daily routine / It&#39;s back to everyday life now. / Tomorrow it&#39;s back to the rat race.",
+    "answerEnglish": "everyday life / daily routine / It&#39;s back to everyday life now. / Tomorrow it&#39;s back to the rat race.",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "everyday life / daily routine / It&#39;s back to everyday life now. / Tomorrow it&#39;s back to the rat race.",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Alltag = everyday life / daily routine / It&#39;s back to everyday life now. / Tomorrow it&#39;s back to the rat race."
+  },
+  {
+    "id": "goethe-ex-goethe-e6ddd48d3c0613b0-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Angst“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "fear / scare / anxiety / Don&#39;t worry!",
+    "answerEnglish": "fear / scare / anxiety / Don&#39;t worry!",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "fear / scare / anxiety / Don&#39;t worry!",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Angst = fear / scare / anxiety / Don&#39;t worry!"
+  },
+  {
+    "id": "goethe-ex-goethe-3acc6b13c189a5c4-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „ängstlich“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "timid / funky / afraid / anxious",
+    "answerEnglish": "timid / funky / afraid / anxious",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "timid / funky / afraid / anxious"
+    ],
+    "explanation": "ängstlich = timid / funky / afraid / anxious"
+  },
+  {
+    "id": "goethe-ex-goethe-094eaa38b356c823-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „anhaben“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "wear sth. / have on sth.",
+    "answerEnglish": "wear sth. / have on sth.",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "wear sth. / have on sth."
+    ],
+    "explanation": "anhaben = wear sth. / have on sth."
+  },
+  {
+    "id": "goethe-ex-goethe-01df130e0436fe02-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „ankommen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "arrive / be essential / be necessary",
+    "answerEnglish": "arrive / be essential / be necessary",
+    "options": [
+      "alphabet / alphabetic",
+      "arrive / be essential / be necessary",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "ankommen = arrive / be essential / be necessary"
+  },
+  {
+    "id": "goethe-ex-goethe-a70f76a0b083d0b8-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Ankunft“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "arrival / dead on arrival / until their arrival",
+    "answerEnglish": "arrival / dead on arrival / until their arrival",
+    "options": [
+      "alphabet / alphabetic",
+      "arrival / dead on arrival / until their arrival",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Ankunft = arrival / dead on arrival / until their arrival"
+  },
+  {
+    "id": "goethe-ex-goethe-87a09d33e40b758f-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „ankündigen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "loom / herald / signal / adumbrate",
+    "answerEnglish": "loom / herald / signal / adumbrate",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "loom / herald / signal / adumbrate",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "ankündigen = loom / herald / signal / adumbrate"
+  },
+  {
+    "id": "goethe-ex-goethe-0b44222eb7df1da2-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Anlage“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "rig / plant / system / layout",
+    "answerEnglish": "rig / plant / system / layout",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "rig / plant / system / layout"
+    ],
+    "explanation": "Anlage = rig / plant / system / layout"
+  },
+  {
+    "id": "goethe-ex-goethe-683173e41441a305-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Anleitung“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "guide / manual / guidance / handbook",
+    "answerEnglish": "guide / manual / guidance / handbook",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "guide / manual / guidance / handbook",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Anleitung = guide / manual / guidance / handbook"
+  },
+  {
+    "id": "goethe-ex-goethe-d3e2c117f7534c47-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „anmelden“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "enrol / enroll / sign-on / declare",
+    "answerEnglish": "enrol / enroll / sign-on / declare",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "enrol / enroll / sign-on / declare",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "anmelden = enrol / enroll / sign-on / declare"
+  },
+  {
+    "id": "goethe-ex-goethe-d789eb34f6ffa1fe-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "Administration",
+    "prompt": "Was bedeutet „die Anmeldung“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "enrolment / logging-on / enrollment / application",
+    "answerEnglish": "enrolment / logging-on / enrollment / application",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "enrolment / logging-on / enrollment / application",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Anmeldung = enrolment / logging-on / enrollment / application"
+  },
+  {
+    "id": "goethe-ex-goethe-a4c73254d9686814-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „annehmen“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "trust / honor / guess / assume",
+    "answerEnglish": "trust / honor / guess / assume",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "trust / honor / guess / assume"
+    ],
+    "explanation": "annehmen = trust / honor / guess / assume"
+  },
+  {
+    "id": "goethe-ex-goethe-a7d0ea787d210632-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Annonce“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "ad / advert / advertisement",
+    "answerEnglish": "ad / advert / advertisement",
+    "options": [
+      "ad / advert / advertisement",
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday"
+    ],
+    "explanation": "Annonce = ad / advert / advertisement"
+  },
+  {
+    "id": "goethe-ex-goethe-751012978f590aec-meaning",
+    "type": "vocabulary",
+    "level": "B1",
+    "category": "General",
+    "prompt": "Was bedeutet „die Anrede“ auf Englisch?",
+    "englishHelp": "Choose the correct English meaning.",
+    "answer": "title / address / salutation / form of address",
+    "answerEnglish": "title / address / salutation / form of address",
+    "options": [
+      "alphabet / alphabetic",
+      "as / qua / when / than",
+      "mundane / prosaic / ordinary / everyday",
+      "title / address / salutation / form of address"
+    ],
+    "explanation": "Anrede = title / address / salutation / form of address"
+  }
+]

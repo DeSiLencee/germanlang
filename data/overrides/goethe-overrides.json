@@ -1,0 +1,7 @@
+{
+  "goethe:a1:anmeldung:noun": {"englishMeaning":"registration","category":"Administration","exampleSentence":"Eine Anmeldung für diesen Kurs ist nicht mehr möglich.","exampleEnglishTranslation":"Registration for this course is no longer possible."},
+  "goethe:a1:anschluss:noun": {"englishMeaning":"connection / connecting service","category":"Transportation","exampleSentence":"In Mannheim haben Sie Anschluss nach Saarbrücken.","exampleEnglishTranslation":"In Mannheim you have a connecting service to Saarbrücken."},
+  "goethe:a1:termin:noun": {"englishMeaning":"appointment","category":"Time"},
+  "goethe:a2:ausruhen:verb": {"englishMeaning":"to rest","category":"Health","exampleSentence":"Ruh dich erst mal aus!","exampleEnglishTranslation":"Get some rest first!"},
+  "goethe:b1:ändern:verb": {"englishMeaning":"to change","category":"General","exampleSentence":"Das Wetter hat sich geändert.","exampleEnglishTranslation":"The weather has changed."}
+}
