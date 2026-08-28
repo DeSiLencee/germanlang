@@ -1,6 +1,9 @@
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
+    function isReportAdmin() {
+      return request.auth != null && request.auth.uid == "hvOiRdfeysSqP9waV9QSJB6wiKz2";
+    }
     match /users/{userId} {
       allow read, create, update, delete: if request.auth != null && request.auth.uid == userId;
       match /{document=**} {

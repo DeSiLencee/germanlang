@@ -6,3 +6,4 @@ export const firebasePaths = {
   review: (uid: string, itemId: string) => `users/${uid}/reviewItems/${itemId}`,
   attempts: (uid: string) => `users/${uid}/exerciseAttempts`,
 };
+export const REPORT_ADMIN_UID = "hvOiRdfeysSqP9waV9QSJB6wiKz2";

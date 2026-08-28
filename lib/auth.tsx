@@ -18,7 +18,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     user, loading, configured: firebaseConfigured,
     signIn: async (email, password) => { if (!firebase) return unavailable(); await signInWithEmailAndPassword(firebase.auth, email, password); },
     signUp: async (email, password, displayName) => { if (!firebase) return unavailable(); const result = await createUserWithEmailAndPassword(firebase.auth, email, password); if (displayName) await updateProfile(result.user, { displayName }); await setDoc(doc(firebase.db, "users", result.user.uid), { displayName: displayName || null, currentLevel: "A2", createdAt: serverTimestamp(), updatedAt: serverTimestamp(), lastActivityAt: serverTimestamp() }, { merge: true }); },
-    signOut: async () => { if (firebase) await firebaseSignOut(firebase.auth); router.replace("/auth"); },
+    signOut: async () => { window.dispatchEvent(new Event("activity-flush")); await new Promise(resolve => setTimeout(resolve, 80)); if (firebase) await firebaseSignOut(firebase.auth); router.replace("/auth"); },
   }), [firebase, loading, router, user]);
   if (loading || (!user && pathname !== "/auth") || (user && pathname === "/auth")) return <div className="auth-loading"><span>Deutschwerk</span><small>Restoring your session…</small></div>;
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

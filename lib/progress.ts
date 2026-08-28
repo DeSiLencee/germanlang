@@ -5,6 +5,7 @@ import { grammarTopics } from "@/data/grammar/topics";
 import { useAuth } from "@/lib/auth";
 import { getFirebase } from "@/lib/firebase/client";
 import { addDoc, collection, deleteDoc, doc, onSnapshot, serverTimestamp, setDoc } from "firebase/firestore";
+import { recordLearningActivity } from "@/components/ActivityTracker";
 const initial: Progress = {
   completedLessons: [],
   attempts: 0,
@@ -101,6 +102,7 @@ export function useProgress() {
         progress.lastActive === date ? progress.streak : progress.streak + 1,
       review,
     });
+    recordLearningActivity({ questionsAnswered: 1, correctAnswers: correct ? 1 : 0, incorrectAnswers: correct ? 0 : 1, reviewItemsCompleted: old && correct ? 1 : 0 });
     const firebase = getFirebase();
     if (firebase && user) {
       void addDoc(collection(firebase.db, "users", user.uid, "exerciseAttempts"), { exerciseId, contentId: exercise?.id || null, correct, sessionType: exercise?.technical ? "it" : exercise?.category || "practice", createdAt: serverTimestamp() });
@@ -134,6 +136,7 @@ export function useProgress() {
       review.push({ exerciseId: exercise.id, exercise, incorrectCount: (previous?.incorrectCount || 0) + (rating === "again" ? 1 : 0), correctCount: previous?.correctCount || 0, difficulty: rating === "again" ? Math.max(2, (previous?.difficulty || 1) + 1) : Math.max(1, previous?.difficulty || 1), lastReviewedAt: now.toISOString(), nextReviewAt: new Date(now.getTime() + days * 86400000).toISOString() });
     }
     save({ ...progress, vocabularyReview, learnedWords: [...learned], learnedWordLevels, review });
+    recordLearningActivity({ cardsStudied: 1, correctAnswers: correct ? 1 : 0, incorrectAnswers: correct ? 0 : 1 });
     const firebase = getFirebase();
     if (firebase && user) {
       const state = vocabularyReview[id];

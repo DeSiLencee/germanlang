@@ -71,3 +71,18 @@ npm run validate:grammar-words
 ```
 
 The vocabulary API filters and paginates the static Goethe, custom, and German-for-IT datasets. Authentication and progress do not require copying this shared content into Firestore.
+
+## Admin study reports
+
+`/admin/reports` is visible only to the configured report administrator. Cross-user reads and CSV generation run through server routes that verify the caller's Firebase ID token and canonical admin UID before using Firebase Admin SDK. Firestore client rules remain owner-only.
+
+Create a Firebase service account in **Project settings → Service accounts → Generate new private key**. Do not commit the JSON file. Copy only its project ID, client email, and private key into these Vercel server environment variables:
+
+```text
+FIREBASE_ADMIN_PROJECT_ID
+FIREBASE_ADMIN_CLIENT_EMAIL
+FIREBASE_ADMIN_PRIVATE_KEY
+REPORT_ADMIN_UID
+```
+
+For Vercel, store the private key as one environment value. Escaped `\n` sequences are converted back to newlines by the server initializer. None of these variables may use a `NEXT_PUBLIC_` prefix. Redeploy after adding them. Daily activity uses Europe/Istanbul calendar dates, an approximately three-minute inactivity cutoff, visibility pausing, and atomic Firestore transactions flushed about every 45 seconds.
