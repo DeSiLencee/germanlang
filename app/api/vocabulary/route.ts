@@ -4,7 +4,8 @@ import { vocabulary as custom } from "@/data/vocabulary";
 import a1 from "@/data/generated/goethe-a1.json";
 import a2 from "@/data/generated/goethe-a2.json";
 import b1 from "@/data/generated/goethe-b1.json";
-const all = [...custom, ...a1, ...a2, ...b1] as VocabularyItem[];
+import { sanitizeVocabularyItem } from "@/lib/plain-text";
+const all = ([...custom, ...a1, ...a2, ...b1] as VocabularyItem[]).map(sanitizeVocabularyItem);
 export function GET(request: NextRequest) {
   const params = request.nextUrl.searchParams;
   const query = (params.get("q") || "").toLocaleLowerCase("de-DE");

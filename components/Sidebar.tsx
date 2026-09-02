@@ -3,7 +3,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useAuth } from "@/lib/auth";
 import { REPORT_ADMIN_UID } from "@/lib/firebase/paths";
-const links = [["□", "Study", "/study"], ["✦", "Practice", "/practice"], ["⌘", "IT German", "/it"], ["Aa", "Grammar Words", "/grammar-words"], ["↗", "Progress", "/progress"], ["⚙", "Settings", "/settings"]];
+const links = [["□", "Study", "/study"], ["✦", "Practice", "/practice"], ["LD", "LikeDuo", "/likeduo"], ["⌘", "IT German", "/it"], ["Aa", "Grammar Words", "/grammar-words"], ["↗", "Progress", "/progress"], ["⚙", "Settings", "/settings"]];
 export function Sidebar() {
   const path = usePathname();
   const { user } = useAuth(), visible = user?.uid === REPORT_ADMIN_UID ? [...links, ["▥", "Reports", "/admin/reports"]] : links;
